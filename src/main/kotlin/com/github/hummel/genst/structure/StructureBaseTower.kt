@@ -2,6 +2,7 @@ package com.github.hummel.genst.structure
 
 import com.github.hummel.genst.init.ChestContents
 import lotr.common.LOTRMod
+import lotr.common.LOTRMod.isOpaque
 import lotr.common.entity.npc.LOTREntityNPC
 import lotr.common.world.structure2.LOTRWorldGenStructureBase2
 import net.minecraft.block.Block
